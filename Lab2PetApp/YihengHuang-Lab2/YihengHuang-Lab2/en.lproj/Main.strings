@@ -1,0 +1,33 @@
+
+/* Class = "UILabel"; text = "Happiness"; ObjectID = "1nu-Nx-IzS"; */
+"1nu-Nx-IzS.text" = "Happiness";
+
+/* Class = "UIButton"; normalTitle = "Bunny"; ObjectID = "2t0-V5-OJY"; */
+"2t0-V5-OJY.normalTitle" = "Bunny";
+
+/* Class = "UIButton"; normalTitle = "Dog"; ObjectID = "3fC-2p-wcQ"; */
+"3fC-2p-wcQ.normalTitle" = "Dog";
+
+/* Class = "UIButton"; normalTitle = "Play"; ObjectID = "4WW-qS-HVU"; */
+"4WW-qS-HVU.normalTitle" = "Play";
+
+/* Class = "UILabel"; text = "Food Level"; ObjectID = "YBr-zJ-vc5"; */
+"YBr-zJ-vc5.text" = "Food Level";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bEG-Pt-YLC"; */
+"bEG-Pt-YLC.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Feed"; ObjectID = "fA5-gB-xYk"; */
+"fA5-gB-xYk.normalTitle" = "Feed";
+
+/* Class = "UIButton"; normalTitle = "Bird"; ObjectID = "j6k-Lo-6La"; */
+"j6k-Lo-6La.normalTitle" = "Bird";
+
+/* Class = "UIButton"; normalTitle = "Cat"; ObjectID = "mWh-Ya-SwO"; */
+"mWh-Ya-SwO.normalTitle" = "Cat";
+
+/* Class = "UIButton"; normalTitle = "Fish"; ObjectID = "oc1-ZH-O0L"; */
+"oc1-ZH-O0L.normalTitle" = "Fish";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "tYg-4V-3Cx"; */
+"tYg-4V-3Cx.text" = "Label";
